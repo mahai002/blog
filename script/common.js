@@ -1,0 +1,1 @@
+"use strict";$(".header__burger").click(function(){$(".menu__body , .header__burger").toggleClass("active"),$("body").toggleClass("lock")});
